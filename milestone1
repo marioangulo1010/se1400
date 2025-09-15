@@ -1,11 +1,11 @@
-<! html>
+<!html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="robots" content="noindex, nofollow">
 <title>CryptMaps</title>
 </head>
-<body>
+    <body>
      <h1>Welcom to the Cryptic Map</h1>
      <p>watch out for the weird and the unexplainable things livin out in the U.S.A!</p>
 </header>
@@ -42,3 +42,8 @@
     <h2>What is the goal of the site?</h3>
     <p>just to finish it as a cool "hey look this is what I made".</p>
 </main>
+<footer>
+    Copyright &copy;2025<br>
+</footer>
+    </body>
+</html>
